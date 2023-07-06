@@ -1,4 +1,9 @@
 from pypylon import pylon
+<<<<<<< HEAD
+=======
+import cv2
+import numpy as np
+>>>>>>> nova-branch
 
 # Identificando a câmera
 tl_factory = pylon.TlFactory.GetInstance()
